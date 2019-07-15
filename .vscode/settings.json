@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "C:\\Users\\Alexandr\\.virtualenvs\\py-DjangoBlog-4MONBOE8\\Scripts\\python.exe"
+    "python.pythonPath": "C:\\Users\\Alexandr\\.virtualenvs\\py-DjangoBlog-4MONBOE8\\Scripts\\python.exe",
+    "python.linting.pep8Enabled": true,
 }
